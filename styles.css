@@ -95,7 +95,7 @@ ul li:hover ul.menu-drop-down{
     position: relative;
     width: 100%;
     text-align: center;
-    background: url('images/logo-bg.jpg');
+    background: url('logo-bg.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
