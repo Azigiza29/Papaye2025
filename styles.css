@@ -14,8 +14,8 @@ header{
 }
 
 .head-image img{
-    width: 180px;
-    height: 80px;
+    width: 100px;
+    height: 50px;
 }
 
 .navigation {
@@ -101,6 +101,7 @@ ul li:hover ul.menu-drop-down{
     background-size: cover;
     background-repeat: no-repeat;
     z-index: 1;
+    margin-bottom: 30px;
 }
 
 .hero-container:before{
